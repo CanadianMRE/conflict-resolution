@@ -1,3 +1,4 @@
 # conflict-resolution
 
+<<<<<<< HEAD
 ## testtestestetstest
